@@ -3,7 +3,7 @@
 [![License: GPL-3.0](https://img.shields.io/github/license/labrgrupo/PRIDe-RL_shiny.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 [![Last commit](https://img.shields.io/github/last-commit/labrgrupo/PRIDe-RL_shiny/main.svg)](https://github.com/labrgrupo/PRIDe-RL_shiny/commits/main)
 [![Latest release](https://img.shields.io/github/v/release/labrgrupo/PRIDe-RL_shiny?display_name=tag)](https://github.com/labrgrupo/PRIDe-RL_shiny/releases/latest)
-[![DOI](https://zenodo.org/badge/1392907214.svg)](https://doi.org/10.5281/zenodo.23737321)
+[![DOI](https://zenodo.org/badge/1437655447.svg)](https://doi.org/10.5281/zenodo.23747544)
 
 <img src="logo_PRIDe-RL.png" width="350px" align="right" alt="PRIDe-RL logo" />
 
